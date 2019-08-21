@@ -1,1 +1,1 @@
-# exampleTestNEleven.java dosyasını Junit ile çalıştırın. Test işlemi başlayacaktır!
+# Test işlemi için JUnit ile exampleTestNEleven.java dosyasını çalıştırın!
