@@ -1,2 +1,1 @@
-# selenium-example-n11
-selenium example n11
+# exampleTestNEleven.java dosyasını Junit ile çalıştırın. Test işlemi başlayacaktır!
